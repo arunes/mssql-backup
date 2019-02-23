@@ -1,0 +1,1 @@
+Console utility to backup Microsoft Sql Server databases.
